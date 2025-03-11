@@ -6,4 +6,4 @@ Collection of theme inspired by cyberpunk, neonwave, and synthwave adapted for
 various programs.
 
 For NvChad (Neovim), see
-[base46-cyberpunk](https://github.com/remino/base46-cyberpunk.nvim).
+[base46-cyberwave](https://github.com/remino/base46-cyberwave.nvim).
